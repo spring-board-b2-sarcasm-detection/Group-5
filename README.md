@@ -9,7 +9,7 @@ Overall, sarcasm detection in tweets is an active area of research with signific
 
 DATASET:
 
-link:https://drive.google.com/file/d/1l3eaI3ub3EV16WIG0uwStArq1a7XP6JU/view?usp=sharing
+link: https://drive.google.com/file/d/1l3eaI3ub3EV16WIG0uwStArq1a7XP6JU/view?usp=sharing
 https://drive.google.com/file/d/1sCwKyNMDBUb0anThA_KGtR0-YJr23qWK/view?usp=sharing
 
 1:The dataset consists of tweets labeled as sarcastic or non-sarcastic.
