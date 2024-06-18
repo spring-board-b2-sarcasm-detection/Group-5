@@ -6,7 +6,8 @@ Sarcasm detection in tweets is the task of automatically identifying whether a t
 Overall, sarcasm detection in tweets is an active area of research with significant challenges. As models and techniques continue to improve, they can play a valuable role in making sense of the often-ambiguous world of online communication.
 
 DATASET:
-link:
+link:https://drive.google.com/file/d/1l3eaI3ub3EV16WIG0uwStArq1a7XP6JU/view?usp=sharing
+https://drive.google.com/file/d/1sCwKyNMDBUb0anThA_KGtR0-YJr23qWK/view?usp=sharing
 1:The dataset consists of tweets labeled as sarcastic or non-sarcastic.
 2:It includes the following features:
   tweet: The text of the tweets.
