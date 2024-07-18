@@ -1,16 +1,46 @@
-# Sarcasm-Detection-Tweets-to-Reduce-Misinformation
-Table of Contents: Introduction Dataset,Preprocessing Model Training Results
+## Sarcasm Detection in Tweets
 
-INTRODUCTION:
+This project delves into the world of tweet sarcasm, where the true meaning lies beneath the surface. We're building a system that can crack the code and automatically identify sarcastic tweets. 
 
-Sarcasm detection in tweets is the task of automatically identifying whether a tweet contains sarcasm or not. Sarcasm, as you know, uses irony or mockery to convey the opposite of the literal meaning. Overall, sarcasm detection in tweets is an active area of research with significant challenges. As models and techniques continue to improve, they can play a valuable role in making sense of the often-ambiguous world of online communication.
+Sarcasm detection is a tricky business, even for humans. It relies heavily on irony and mockery, often conveying the opposite of what's literally said. Here, we're developing a solution to navigate this ambiguity and bring clarity to online communication.
 
-DATASET:
+**Why This Matters?**
 
-link: https://drive.google.com/file/d/1l3eaI3ub3EV16WIG0uwStArq1a7XP6JU/view?usp=sharing https://drive.google.com/file/d/1sCwKyNMDBUb0anThA_KGtR0-YJr23qWK/view?usp=sharing
+ Our solution aims to achieve just that, by:
 
-1:The dataset consists of tweets labeled as sarcastic or non-sarcastic. 2:It includes the following features: tweet: The text of the tweets. sarcasm(yes/no):label indicating whether the review is sarcastic(yes) or non- sarcastic(no). PREPROCESSING:
+* **Boosting Sentiment Accuracy:**  By recognizing sarcasm, we can paint a more accurate picture of sentiment in tweets. 
+* **Real-Time Customer Feedback:**  Imagine understanding customer sentiment in real-time, allowing for better and faster feedback management. 
+* **Scalable Framework:**  This project is designed to be adaptable, catering to various industries that require sarcasm detection capabilities.
+  
+**Features:**
 
-The preprocessing steps involved in this project include:
+Here's a peek under to see what makes this project tick:
 
-Text Cleaning: Removing HTML tags, URLs, special characters, and converting text to lowercase. Tokenization: Splitting text into individual words (tokens). Handling Missing Values: Addressing any missing data in the dataset. Encoding
+Data Preprocessing: Techniques for cleaning and preparing textual data.
+Feature Extraction: Methods to extract meaningful features from text.
+Model Training: Implementation of various machine learning models for sarcasm detection.
+Evaluation Metrics: Tools to evaluate the performance of the models.
+Visualization: Visual representation of data and results.
+
+**The Data Description:**
+
+The dataset used for this project consists of Tweets and is collected from Hugging Face.
+Each review is labeled as either sarcastic (yes) or non-sarcastic (no).
+
+**The Model:**
+
+We'll pit various machine learning models against each other in a battle for supremacy. Here are the contenders:
+
+* Logistic Regression
+* Support Vector Machine
+* Naïve Bayes Model
+* Decision Tree
+* K-Nearest Neighbor
+* Convolutional Neural Network (CNN)
+* Gated Recurrent Unit (GRU)
+* Bidirectional Long Short-Term Memory (BiLSTM)
+* Random Forest
+
+**Finding the best Model:**
+
+The evaluation metrics used includes accuracy, precision, recall, and F1-score. The best model among all is the BLSTM model with 89.97% accurate predictions.
