@@ -16,11 +16,11 @@ Sarcasm detection is a tricky business, even for humans. It relies heavily on ir
 
 Here's a peek under to see what makes this project tick:
 
-Data Preprocessing: Techniques for cleaning and preparing textual data.
-Feature Extraction: Methods to extract meaningful features from text.
-Model Training: Implementation of various machine learning models for sarcasm detection.
-Evaluation Metrics: Tools to evaluate the performance of the models.
-Visualization: Visual representation of data and results.
+* **Data Preprocessing:** Techniques for cleaning and preparing textual data.
+* **Feature Extraction:** Methods to extract meaningful features from text.
+* **Model Training:** Implementation of various machine learning models for sarcasm detection.
+* **Evaluation Metrics:** Tools to evaluate the performance of the models.
+* **Visualization: Visual** representation of data and results.
 
 **The Data Description:**
 
