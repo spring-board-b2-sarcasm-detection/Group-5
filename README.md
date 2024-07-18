@@ -29,7 +29,7 @@ Each review is labeled as either sarcastic (yes) or non-sarcastic (no).
 
 **The Model:**
 
-We'll pit various machine learning models against each other in a battle for supremacy. Here are the contenders:
+We'll try various machine learning models and deep learning models against each other in a battle for supremacy. Here are these:
 
 * Logistic Regression
 * Support Vector Machine
