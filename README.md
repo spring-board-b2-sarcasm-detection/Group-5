@@ -1,11 +1,11 @@
 # Sarcasm-Detection-Tweets-to-Reduce-Misinformation
 
-Table of Contents: 
-Introduction
-Features
-Dataset
-Model Training
-Results
+Table of Contents:\
+Introduction\
+Features\
+Dataset\
+Model Training\
+Results\
 
 Introduction:
 Sarcasm detection in tweets is the task of automatically identifying whether a tweet contains sarcasm or not.  Sarcasm, as you know, uses irony or mockery to convey the opposite of the literal meaning.
